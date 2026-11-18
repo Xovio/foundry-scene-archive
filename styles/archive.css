@@ -1,0 +1,23 @@
+#scenes .sa-badge {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin: 0 6px;
+  padding: 0 6px;
+  height: 18px;
+  align-self: center;
+  border-radius: 9px;
+  font-size: 11px;
+  line-height: 18px;
+  color: #ecd08c;
+  background: rgba(0, 0, 0, 0.45);
+  border: 1px solid rgba(201, 164, 92, 0.6);
+  white-space: nowrap;
+}
+#scenes .sa-badge.sa-only-sub {
+  color: #b5ad99;
+  border-style: dashed;
+  border-color: rgba(201, 164, 92, 0.35);
+}
+#scenes .sa-badge i { font-size: 10px; }

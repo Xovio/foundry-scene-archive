@@ -1,0 +1,28 @@
+{
+  "id": "scene-archive",
+  "title": "Scene Archive",
+  "description": "Moves scene folders into an archive compendium so the world loads faster, and brings them back automatically when you expand the folder – keeping scene IDs and everyone's fog of war.",
+  "authors": [
+    {
+      "name": "Xovio"
+    }
+  ],
+  "version": "0.2.0",
+  "license": "LICENSE",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.343",
+    "maximum": "12"
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/archive.css"
+  ],
+  "url": "https://github.com/Xovio/foundry-scene-archive",
+  "manifest": "https://github.com/Xovio/foundry-scene-archive/releases/latest/download/module.json",
+  "download": "https://github.com/Xovio/foundry-scene-archive/releases/download/v0.2.0/module.zip",
+  "bugs": "https://github.com/Xovio/foundry-scene-archive/issues",
+  "readme": "https://github.com/Xovio/foundry-scene-archive/blob/main/README.md"
+}
